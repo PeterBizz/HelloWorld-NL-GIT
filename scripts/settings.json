@@ -1,5 +1,5 @@
 {
-    "name": "HelloWorld",
+    "name": "HelloWorldGitHubBB",
     "memoryLimit": "6G",
     "installApps": "",
     "previousApps": "https://businesscentralapps.azureedge.net/githubhelloworld/latest/apps.zip",
@@ -13,7 +13,7 @@
     "enableAppSourceCop": false,
     "enablePerTenantExtensionCop": true,
     "enableUICop": true,
-    "bcContainerHelperVersion": "preview",
+    "bcContainerHelperVersion": "latest",
     "additionalCountries": "",
     "vaultNameForLocal": "BuildVariables",
     "versions": [
